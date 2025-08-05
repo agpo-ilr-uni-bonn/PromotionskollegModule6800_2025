@@ -53,3 +53,6 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 <!--
 -[Example notebook of Lasso Double selection](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/Example_LassoDoubleSelection.ipynb)
 -->
+
+### How to open the jupyter notebooks in colab
+![HowToOpenNotebookInColab](How%20to%20open%20Notebook%20in%20Colab.png "Title")
