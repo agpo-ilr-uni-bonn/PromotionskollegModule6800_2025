@@ -1,7 +1,6 @@
 # PromotionskollegModule6800_2025
 Course material and links for Promotionskolleg Module 6800: Machine learning in applied economic analysis.
 August 18-22, 2025 (in presence in Bonn, Meckenheimer Allee 174, "Fakultätssitzungssaal")
-[Note: Slides and videos related to an earlier online version of the course can be found under https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2021]
 
 ### Instructors 
 
