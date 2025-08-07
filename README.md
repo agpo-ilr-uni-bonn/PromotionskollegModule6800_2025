@@ -11,6 +11,8 @@ Thomas Heckelei - University of Bonn, Germany
 Hugo Storm - University of Bonn, Germany
 
 
+### Course schedule
+[Schedule](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/ML_6800_schedule_2025.pdf)
 
 
 ### Research pitch 
