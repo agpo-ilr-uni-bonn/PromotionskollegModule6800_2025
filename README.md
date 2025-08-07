@@ -56,4 +56,6 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 -->
 
 ### How to open the jupyter notebooks in colab
+Open the notebook in github and click on the "Open in Colab" button at the top of the notebook. If you do not see this button, you can also open the notebook in colab see image.
+
 ![HowToOpenNotebookInColab](How%20to%20open%20Notebook%20in%20Colab.png "Title")
