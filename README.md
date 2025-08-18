@@ -18,8 +18,8 @@ Hugo Storm - University of Bonn, Germany
 ### Research pitch 
 Please prepare a 3 min pitch of your research project. The pitch should cover the following points:
 1) What is your research question?
-2) What type of data do you use (intent to use)?
-3) What type of model do you use (intent to use)?
+2) What type of data do you use (intend to use)?
+3) What type of model do you use (intend to use)?
 4) What is the major challenge you are currently facing?
 5) Are you plan to use ML? If yes: Why and how? If no: What limitation do you see?
 
