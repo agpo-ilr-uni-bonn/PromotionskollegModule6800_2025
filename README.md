@@ -37,9 +37,8 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 
 
 ### Links to Day 2 material 
-
-<!-- - [Day 2 slides - Trees and ML interpretation](https://docs.google.com/presentation/d/1mQfIKw-dDVJ3Bts7cque9fPouOL-Ecog921HsTMGteA/edit?usp=sharing)
-- [Day 2 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day2.ipynb) -->
+- [Day 2 slides - Trees and ML interpretation](https://docs.google.com/presentation/d/1mQfIKw-dDVJ3Bts7cque9fPouOL-Ecog921HsTMGteA/edit?usp=sharing)
+- [Day 2 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day2.ipynb)
 
 
 ### Links to Day 3 material 
