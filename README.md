@@ -47,8 +47,8 @@ We are planning to do the pitches Wednesday/Thursday after the Q&A session, as w
 
 
 ### Links to Day 4-5 material 
-<!-- - [Day 4-5 slides - ML and causal analysis](https://docs.google.com/presentation/d/1GA3VP-r-6dnZdrAVwkV_FpWlCpbjf2SI4j9VCJoNVE0/edit?usp=sharing)
-- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day4_5.ipynb) -->
+- [Day 4-5 slides - ML and causal analysis](https://docs.google.com/presentation/d/1GA3VP-r-6dnZdrAVwkV_FpWlCpbjf2SI4j9VCJoNVE0/edit?usp=sharing)
+- [Day 4-5 jupyter notebook for lecture and lab](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/6800_Day4_5.ipynb)
 
 <!--
 -[Example notebook of Lasso Double selection](https://github.com/agpo-ilr-uni-bonn/PromotionskollegModule6800_2025/blob/master/Example_LassoDoubleSelection.ipynb)
